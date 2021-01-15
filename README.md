@@ -10,3 +10,5 @@ Used modules:
 - argparse
 - json
 - socket
+
+It should be started from terminal by: python hack.py remote_host remote_port
